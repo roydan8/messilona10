@@ -62,4 +62,4 @@ CurrLetter='G';
   lastGreenBtnVal=GreenbtnVal;
   Serial.println(Guess);
   delay(50);
-}
+} 
